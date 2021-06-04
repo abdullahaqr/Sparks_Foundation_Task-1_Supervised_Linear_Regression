@@ -1,4 +1,4 @@
-### The-sparks-foundation-task
+# The Sparks Foundation Task
 Data science and business analytics internship june-21
 
 TASK-1:Prediction using Supervised ML
